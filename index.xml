@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>我的笔记</title>
+      <link>https://discoolee.github.io/notes</link>
+      <description>最近的10条笔记 on 我的笔记</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://discoolee.github.io/notes/markdown/</link>
+    <guid>https://discoolee.github.io/notes/markdown/</guid>
+    <description><![CDATA[ 第一部分： 标题与段落 “#”为主标题 “##”二级标题 以此类推 “#”后面要跟一个空格 “#”越多，字越小 第二部分：强调 字体加粗 那就 ** 文字 ** 斜体 那就* 文字 * 删除线的效果 那就~~ 字体 ~~ 行内代码 那就 文字 第三部分：列表 无序列表：行首 - （短横线后必须有一个空格） 有序列表：行首 1. ]]></description>
+    <pubDate>Tue, 27 Oct 2026 16:17:16 GMT</pubDate>
+  </item><item>
+    <title>首页</title>
+    <link>https://discoolee.github.io/notes/</link>
+    <guid>https://discoolee.github.io/notes/</guid>
+    <description><![CDATA[ 我的笔记 这里是我的学习笔记。用 Obsidian 写，用 Quartz 发布成网站。 笔记目录 Markdown 学习笔记 怎么更新 在 Obsidian 里改完笔记 → 重新构建 → 重新发布，网站就更新了（具体步骤我写在站点目录外的说明文件里）。 攒够思念，那就见面。 . ]]></description>
+    <pubDate>Tue, 27 Oct 2026 16:14:23 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
